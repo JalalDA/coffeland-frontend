@@ -331,7 +331,7 @@ input {
 .gender {
     display: flex;
     justify-content: center;
-    padding-top: 66px;
+    padding-top: 60px;
 }
 
 .radio-container {
@@ -341,10 +341,6 @@ input {
     margin: 12px;
     cursor: pointer;
     font-size: 22px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
 }
 
 .radio-container input {
@@ -369,13 +365,7 @@ input {
     background-color: #ffba33;
     border: 3px solid #6a4029;
 }
-.checkmark:after {
-    position: absolute;
-    display: none;
-}
-.radio-container input:checked ~ .checkmark:after {
-    display: block;
-}
+
 
 /*footer*/
 .footer{
@@ -512,10 +502,12 @@ input {
         display: flex;
         align-items: center;
         justify-content: start;
+        height: 1850px;
         flex-direction: column;
     }
     .profileDetail{
-        width: 100%;
-        display: none;
+        width: 80%;
+        display: block;
+        margin:0;
     }
 }
