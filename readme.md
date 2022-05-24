@@ -29,4 +29,4 @@
 
 ## RELATED PROJECT
 
-[gargyo-coffee-backend](https://github.com/JalalDA/coffeeland)
+[coffeeland-backend](https://github.com/JalalDA/coffeeland)
