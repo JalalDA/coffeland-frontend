@@ -295,7 +295,7 @@
 
 @media screen and (max-width : 768px) {
     .headerContainer{
-        background-image: url(/coffeeland-client/assets/img/robert-bye-95vx5QVl9x4-unsplash\ 2.png);
+        background-image: url(/assets/img/robert-bye-95vx5QVl9x4-unsplash\ 2.png);
         background-size: cover;
         -webkit-background-size: cover ;
     }
