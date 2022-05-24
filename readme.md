@@ -22,9 +22,9 @@
 
 <div style="display:flex">
 <img src="assets/img/home.png" style="width: 200px">
-<img src="assets/img/login.PNG" style="width: 200px">
-<img src="assets/img/profile.PNG" style="width: 200px">
-<img src="assets/img/product.PNG" style="width: 200px">
+<img src="assets/img/login.png" style="width: 200px">
+<img src="assets/img/profile.png" style="width: 200px">
+<img src="assets/img/product.png" style="width: 200px">
 </div>
 
 ## RELATED PROJECT
